@@ -23,6 +23,8 @@ CSS (Cascading Style Sheets) is a stylesheet language used to describe the **pre
 
 ### 📚 Basic Syntax
 
+```css
+
 selector {
   property: value;
 }
@@ -57,10 +59,11 @@ h1 {
 | `#id`     | Selects element with specific ID      |
 | `div > p` | Selects `<p>` directly inside `<div>` |
 
+```
 
 Advanced CSS Concepts
 
-
+```css
 📱 Responsive Web Design--
 
 @media (max-width: 768px) {
@@ -108,7 +111,7 @@ MDN Web Docs – CSS
 W3Schools – CSS
 Flexbox Froggy Game
 CSS Grid Garden Game
-
+```
 
 🙌 Author
 Made with ❤️ by Abhijeet Ghosh
