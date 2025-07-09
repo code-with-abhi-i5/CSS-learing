@@ -23,7 +23,6 @@ CSS (Cascading Style Sheets) is a stylesheet language used to describe the **pre
 
 ### 📚 Basic Syntax
 
-```css
 selector {
   property: value;
 }
